@@ -1,0 +1,9 @@
+{
+    "name": "mamul/penyebaran-covid-banjarmasin",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "paquettg/php-html-parser": "^2.2"
+    }
+}
